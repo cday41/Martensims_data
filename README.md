@@ -14,3 +14,6 @@ Summaries_compiled.csv
 SEARCH_Arc10.5.zip
   Contains the version of SEARCH used to run simulations, compiled for ArcGIS Desktop version 10.5
 
+Traverse10reps.csv
+  Proportion of distance traveled between source and destination populations for each simulated individual
+
