@@ -11,3 +11,6 @@ Summaries_compiled.csv
   SLDist = straight-line dispersal distance
   Alive = no. of individuals that survived and established a home range by the end of a given year
 
+SEARCH_Arc10.5.zip
+  Contains the version of SEARCH used to run simulations, compiled for ArcGIS Desktop version 10.5
+
