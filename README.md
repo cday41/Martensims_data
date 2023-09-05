@@ -19,3 +19,9 @@ Traverse10reps.csv
 
 Landis_Inputs.zip
   Input files used for landis-II simulations for 4 climate scenarios: historical, rcp 2.6, rcp 4.5, and rcp 8.5
+
+xml_inputs.zip
+  xml input files for SEARCH simulations. xml files contain all parameterization.
+
+SEARCH_maps.zip
+  Spatial layers used for the food, risk, movement, release, and social maps during SEARCH simulations. 
