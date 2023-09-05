@@ -23,4 +23,4 @@ Landis_Inputs.zip
 xml_inputs.zip
   xml input files for SEARCH simulations. xml files contain all parameterization.
 
-For a full set of input maps used for the food, risk, movement, release, and social maps in SEARCH simulations, contact me at caseycday@gmail.com
+For a full set of input maps used for the food, risk, movement, release, and social maps in SEARCH simulations, or a full set of raw outputs for landis and search simulations, contact me at caseycday@gmail.com
